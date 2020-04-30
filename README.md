@@ -12,5 +12,10 @@ Somoji is a delightful and easy to use browser extension that brings sounds to p
 
 ![Google Hangouts screenshot](https://raw.githubusercontent.com/ApoorvSaxena/Somoji/master/screenshots/google-hangouts-banner.png)
 
+## Install
+- [Google Chrome Webstore](https://chrome.google.com/webstore/detail/eoiogmnpbgafgjepmhhncaficdcbkoap/)
+- Firefox - Coming Soon!
+- Safari - Coming Soon!
+
 ## Credits
-[SoundRoom](https://github.com/CurtisLusmore/soundroom)
+Inspired by [SoundRoom](https://github.com/CurtisLusmore/soundroom)
