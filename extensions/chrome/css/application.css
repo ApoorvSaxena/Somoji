@@ -1,0 +1,16 @@
+.grid {
+  min-width: 300px;
+  display: flex;
+  flex-flow: wrap;
+  justify-content: center;
+  line-height: 1.5em;
+  font-size: 3em;
+}
+
+.grid .button {
+  text-align: center;
+  width: 2em;
+  cursor: pointer;
+}
+
+.grid .button:hover, .button.bounce { margin: -0.25em 0 0.25em 0; }
